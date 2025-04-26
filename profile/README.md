@@ -1,3 +1,3 @@
 ## Oh hey there 👋
 
-All unicode data in a readable and available way.
+Unicode Character Database in a more readable way
