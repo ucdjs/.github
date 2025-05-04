@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://ucdjs.dev/favicon.svg" height="200">
+<img src="https://ucdjs.dev/favicon.svg?revalidate" height="200">
 </p>
 
 <h1 align="center">
