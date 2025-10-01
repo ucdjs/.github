@@ -9,5 +9,5 @@ UCD.js
 Unicode Character Database in a more readable way
 <p>
 <div align="center">
-  <a href="https://ucdjs.dev/">📚 Documentation</a>
+  <a href="https://ucdjs.dev/">📚 Documentation</a><span> | </span><a href="https://ucdjs.dev/">🌏 Website</a>
 </div>
